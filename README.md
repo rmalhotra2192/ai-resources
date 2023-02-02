@@ -57,3 +57,9 @@
     
     [Try Removeit](https://www.removeit.io)
 
+### <ins>Audio Production and Voice Synthesis</ins>
+
+- **Resemble.AI** - 
+    Resemble.ai is a cloud-based speech analysis software. It analyses voice and speech data to determine tone, emotion, and rhythm. The platform is made to help businesses and organisations improve their communication and customer service by giving them detailed and actionable information about how their customers talk to them and how they talk to them. Resemble.ai can analyse both live and recorded speech. The platform is easy to use and easy to get to, and you don't need any technical or programming skills to use it.
+
+    [Try ResembleAI](https://www.resemble.ai/)
