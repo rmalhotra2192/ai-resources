@@ -17,6 +17,11 @@
 
     [Try NotionAI](https://www.notion.so/product/ai)
 
+- **Tome** -
+    Tome's generative storytelling capabilities empower creators to swiftly generate comprehensive narratives, presentations, or outlines from the ground up. The app features intelligent titling, pagination, page designs, and text, all supported by the advanced GPT-3 language model and AI-generated visuals.
+
+    [Try Tome](https://tome.app)
+
 ### <ins>General Image Generation and Processing</ins>
 
 - **MidJourney** -
@@ -51,6 +56,11 @@
     Runway Video Editing is designed to be user-friendly and accessible, making it possible for anyone to experiment with AI-powered video editing, regardless of their technical background.
     
     [Try RunwayML](https://runwayml.com)
+
+- ** Topaz Video AI** -
+    Topaz Video AI is a software developed by Topaz Labs that leverages artificial intelligence technology to analyze and enhance video content. It provides a range of features, such as super-resolution, denoising, and stabilization, which aim to improve the quality of your videos and make them look more professional. The software uses AI algorithms to analyze and process videos, making it easier for users to get the desired results without having to manually tweak various settings. Topaz Video AI is designed for both professionals and hobbyists, and its user-friendly interface makes it accessible for anyone to use.
+
+    [Try Topaz](https://www.topazlabs.com/topaz-video-ai)
 
 - **Remove it** -
     "Remove it" is a tool for removing the background from video. It uses AI technology to automatically identify the subject of an video and separate it from the background, allowing users to easily remove or replace the background. The tool is user-friendly and easy to use, requiring no prior technical knowledge or experience.
