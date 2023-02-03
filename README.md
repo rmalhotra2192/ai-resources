@@ -57,7 +57,7 @@
     
     [Try RunwayML](https://runwayml.com)
 
-- ** Topaz Video AI** -
+- **Topaz Video AI** -
     Topaz Video AI is a software developed by Topaz Labs that leverages artificial intelligence technology to analyze and enhance video content. It provides a range of features, such as super-resolution, denoising, and stabilization, which aim to improve the quality of your videos and make them look more professional. The software uses AI algorithms to analyze and process videos, making it easier for users to get the desired results without having to manually tweak various settings. Topaz Video AI is designed for both professionals and hobbyists, and its user-friendly interface makes it accessible for anyone to use.
 
     [Try Topaz](https://www.topazlabs.com/topaz-video-ai)
@@ -73,3 +73,8 @@
     Resemble.ai is a cloud-based speech analysis software. It analyses voice and speech data to determine tone, emotion, and rhythm. The platform is made to help businesses and organisations improve their communication and customer service by giving them detailed and actionable information about how their customers talk to them and how they talk to them. Resemble.ai can analyse both live and recorded speech. The platform is easy to use and easy to get to, and you don't need any technical or programming skills to use it.
 
     [Try ResembleAI](https://www.resemble.ai/)
+
+- **Adobe Audio Enhance** -
+    Adobe Audio Enhance is a feature within the Adobe Creative Cloud suite that provides users with a range of tools to enhance the audio quality of their projects. The feature includes capabilities such as removing noise, reducing reverb, equalizing sound levels, and more, allowing users to produce professional-quality audio.
+
+    [Try Adobe Audio Enhance](https://podcast.adobe.com/enhance)
