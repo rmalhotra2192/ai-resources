@@ -67,6 +67,11 @@
     
     [Try Removeit](https://www.removeit.io)
 
+- **Synthesia** - 
+    Synthesia Video Generation Platform uses AI to create interesting and dynamic videos. The software analyses and synthesises audio and visual input using machine learning algorithms, allowing users to easily make videos without video editing skills. Synthesia Video Generation Platform lets organisations and people create and share instructive, engaging, and professional-looking films with adjustable themes, music collection, and text-to-speech capabilities.
+
+    [Try Synthesia](https://www.synthesia.io)
+
 ### <ins>Audio Production and Voice Synthesis</ins>
 
 - **Resemble.AI** - 
