@@ -83,3 +83,8 @@
     Adobe Audio Enhance is a feature within the Adobe Creative Cloud suite that provides users with a range of tools to enhance the audio quality of their projects. The feature includes capabilities such as removing noise, reducing reverb, equalizing sound levels, and more, allowing users to produce professional-quality audio.
 
     [Try Adobe Audio Enhance](https://podcast.adobe.com/enhance)
+
+- **Eleven Labs Prime Voice AI** -
+    Eleven Labs Prime Voice AI utilizes state-of-the-art advanced artificial intelligence speech tool available to produce exceptional spoken audio in any desired voice and style. Its deep learning model meticulously reproduces human intonation and inflection patterns with remarkable accuracy, and has the ability to adjust delivery according to context.
+
+    [Try Eleven Labs Prime Voice AI](https://elevenlabs.io)
