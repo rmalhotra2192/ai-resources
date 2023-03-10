@@ -88,3 +88,8 @@
     Eleven Labs Prime Voice AI utilizes state-of-the-art advanced artificial intelligence speech tool available to produce exceptional spoken audio in any desired voice and style. Its deep learning model meticulously reproduces human intonation and inflection patterns with remarkable accuracy, and has the ability to adjust delivery according to context.
 
     [Try Eleven Labs Prime Voice AI](https://elevenlabs.io)
+    
+    
+### <ins>Great GPU Computing Platforms for Deep Learning.</ins>
+- **Vast.AI** -
+    Vast.ai is a cloud platform providing customizable GPU and CPU instances for machine learning and other compute-intensive tasks. It offers a user-friendly interface, various security features, and the ability to scale up or down as needed. It's a convenient and cost-effective solution for researchers and data scientists who need powerful computing resources without managing hardware.
