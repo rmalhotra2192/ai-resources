@@ -95,3 +95,8 @@
     Vast.ai is a cloud platform providing customizable GPU and CPU instances for machine learning and other compute-intensive tasks. It offers a user-friendly interface, various security features, and the ability to scale up or down as needed. It's a convenient and cost-effective solution for researchers and data scientists who need powerful computing resources without managing hardware.
     
     [Try Vast.AI](https://vast.ai/)
+    
+ - **Lambda Labs** -
+    Lambda Labs GPU on Demand Cloud is a cloud platform offering customizable GPU instances for AI and machine learning. Users can quickly spin up virtual machines, pay only for what they use, and scale up or down as needed. The platform supports a range of machine learning frameworks and provides a user-friendly interface with security features and integrations. It's a cost-effective solution for researchers and data scientists who need powerful computing resources without managing hardware.
+    
+    [Try Lambda Labs](https://lambdalabs.com/service/gpu-cloud/)
