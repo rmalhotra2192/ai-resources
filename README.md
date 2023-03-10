@@ -93,3 +93,5 @@
 ### <ins>Great GPU Computing Platforms for Deep Learning.</ins>
 - **Vast.AI** -
     Vast.ai is a cloud platform providing customizable GPU and CPU instances for machine learning and other compute-intensive tasks. It offers a user-friendly interface, various security features, and the ability to scale up or down as needed. It's a convenient and cost-effective solution for researchers and data scientists who need powerful computing resources without managing hardware.
+    
+    [Try Vast.AI](https://vast.ai/)
