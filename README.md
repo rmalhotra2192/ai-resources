@@ -96,7 +96,13 @@
     
     [Try Vast.AI](https://vast.ai/)
     
- - **Lambda Labs** -
+- **Lambda Labs** -
     Lambda Labs GPU on Demand Cloud is a cloud platform offering customizable GPU instances for AI and machine learning. Users can quickly spin up virtual machines, pay only for what they use, and scale up or down as needed. The platform supports a range of machine learning frameworks and provides a user-friendly interface with security features and integrations. It's a cost-effective solution for researchers and data scientists who need powerful computing resources without managing hardware.
     
     [Try Lambda Labs](https://lambdalabs.com/service/gpu-cloud/)
+    
+- **Paperspace Gradient** -
+    Paperspace Gradient is a cloud platform offering powerful GPU instances for AI and machine learning. It has a user-friendly interface, collaborative features, and supports various frameworks and tools. With Gradient, users can scale virtual machines, pay for what they use, and deploy models to production. It's a flexible and comprehensive solution for AI and machine learning workflows in the cloud.
+    
+    [Try Paperspace Gradient](https://www.paperspace.com/gpu-cloud/)
+    
